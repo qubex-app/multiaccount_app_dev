@@ -1,0 +1,8 @@
+{
+    "activation_dialog": true,
+    "api_key_dialog": true,
+    "dev_telegram_group": false,
+    "local_api": false,
+    "hard_code_api_key": "",
+    "base_url":"https://multiaccountv1.pythonanywhere.com"
+}
